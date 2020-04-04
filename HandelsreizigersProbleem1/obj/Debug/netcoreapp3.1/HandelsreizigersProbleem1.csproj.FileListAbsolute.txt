@@ -1,0 +1,13 @@
+C:\Users\Casper Stiekema\source\repos\HandelsreizigersProbleem1\HandelsreizigersProbleem1\obj\Debug\netcoreapp3.1\HandelsreizigersProbleem1.csprojAssemblyReference.cache
+C:\Users\Casper Stiekema\source\repos\HandelsreizigersProbleem1\HandelsreizigersProbleem1\obj\Debug\netcoreapp3.1\HandelsreizigersProbleem1.csproj.CoreCompileInputs.cache
+C:\Users\Casper Stiekema\source\repos\HandelsreizigersProbleem1\HandelsreizigersProbleem1\obj\Debug\netcoreapp3.1\HandelsreizigersProbleem1.AssemblyInfoInputs.cache
+C:\Users\Casper Stiekema\source\repos\HandelsreizigersProbleem1\HandelsreizigersProbleem1\obj\Debug\netcoreapp3.1\HandelsreizigersProbleem1.AssemblyInfo.cs
+C:\Users\Casper Stiekema\source\repos\HandelsreizigersProbleem1\HandelsreizigersProbleem1\bin\Debug\netcoreapp3.1\HandelsreizigersProbleem1.exe
+C:\Users\Casper Stiekema\source\repos\HandelsreizigersProbleem1\HandelsreizigersProbleem1\bin\Debug\netcoreapp3.1\HandelsreizigersProbleem1.deps.json
+C:\Users\Casper Stiekema\source\repos\HandelsreizigersProbleem1\HandelsreizigersProbleem1\bin\Debug\netcoreapp3.1\HandelsreizigersProbleem1.runtimeconfig.json
+C:\Users\Casper Stiekema\source\repos\HandelsreizigersProbleem1\HandelsreizigersProbleem1\bin\Debug\netcoreapp3.1\HandelsreizigersProbleem1.runtimeconfig.dev.json
+C:\Users\Casper Stiekema\source\repos\HandelsreizigersProbleem1\HandelsreizigersProbleem1\bin\Debug\netcoreapp3.1\HandelsreizigersProbleem1.dll
+C:\Users\Casper Stiekema\source\repos\HandelsreizigersProbleem1\HandelsreizigersProbleem1\bin\Debug\netcoreapp3.1\HandelsreizigersProbleem1.pdb
+C:\Users\Casper Stiekema\source\repos\HandelsreizigersProbleem1\HandelsreizigersProbleem1\obj\Debug\netcoreapp3.1\HandelsreizigersProbleem1.dll
+C:\Users\Casper Stiekema\source\repos\HandelsreizigersProbleem1\HandelsreizigersProbleem1\obj\Debug\netcoreapp3.1\HandelsreizigersProbleem1.pdb
+C:\Users\Casper Stiekema\source\repos\HandelsreizigersProbleem1\HandelsreizigersProbleem1\obj\Debug\netcoreapp3.1\HandelsreizigersProbleem1.genruntimeconfig.cache
